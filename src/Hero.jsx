@@ -5,7 +5,7 @@ function Hero() {
     <section className="hero-section">
       <div className="hero-container">
         <div className="hero-content">
-          <span className="discount-badge">WEEKLY DISCOUNT </span>
+          <span className="discount-badge">WEEKLY DISCOUNT</span>
           <h1 className="hero-title">Premium Product Online Shop</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quos
